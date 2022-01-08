@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarterKFalkenberg
-- 👀 I’m interested in software/web development, data science, and machine learning. 
+- 👀 I’m interested in software/web development, data science, machine learning, and computer science research
 - 🌱 I’m currently learning java and software development
 
 <!---
